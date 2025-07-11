@@ -93,20 +93,18 @@ Optional features you can implement to go the extra mile:
 
 ## 📁 Deliverables
 
-- Source code in a GitHub repo or ZIP file
+- Source code in a GitHub repo
 - `README.md` with:
   - Setup instructions
   - API documentation or Postman collection
   - Sample curl or HTTP request examples
-
+- A short demo video (3–5 minutes) explaining:
+  - How the app works (via Postman or curl)
+  - Key features implemented
+  -  Folder/project structure (briefly)
 ---
 
-## ⏱️ Suggested Timeline
-
-- Planning + Setup: 1–2 hours  
-- Implementing core features: 4–6 hours  
-- Testing & Documentation: 1–2 hours  
-- Bonus features (optional): 1–2 hours
+All deliverables (code, README, demo video) should be submitted by end of **21st July 2025** 
 
 ---
 
