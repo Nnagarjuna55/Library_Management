@@ -104,7 +104,7 @@ Optional features you can implement to go the extra mile:
   -  Folder/project structure (briefly)
 ---
 
-All deliverables (code, README, demo video) should be submitted by end of **21st July 2025** 
+All deliverables (code, README, demo video) should be submitted by the end of **20st July 2025** 
 
 ---
 
