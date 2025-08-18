@@ -102,9 +102,10 @@ Optional features you can implement to go the extra mile:
   - How the app works (via Postman or curl)
   - Key features implemented
   -  Folder/project structure (briefly)
+-  **Unit Testcases**
 ---
 
-All deliverables (code, README, demo video) should be submitted by the end of **20th July 2025** 
+All deliverables (code, README, demo video) should be submitted by the end of **25th Aug 2025** 
 
 ---
 
