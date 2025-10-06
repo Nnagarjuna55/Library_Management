@@ -105,7 +105,7 @@ Optional features you can implement to go the extra mile:
 -  **Unit Testcases**
 ---
 
-All deliverables (code, README, demo video) should be submitted by the end of **25th Aug 2025** 
+All deliverables (code, README, demo video) should be submitted by the end of **7th Oct 2025** 
 
 ---
 
