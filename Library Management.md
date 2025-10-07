@@ -107,6 +107,17 @@ Optional features you can implement to go the extra mile:
 
 All deliverables (code, README, demo video) should be submitted by the end of **7th Oct 2025** 
 
+API testing demo video: **https://drive.google.com/file/d/1iyz8KDtL05XrewH37BvGdkm_-2bpkW60/view?usp=sharing**
+
+---
+
+---
+**
+.env
+PORT=3000
+MONGODB_URI=mongodb://127.0.0.1:27017/library_management
+
+**
 ---
 
 ## 💬 Questions?
